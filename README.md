@@ -16,7 +16,16 @@
 <br/>
 <br/>
 
-<a href="lucas.gorziza@gmail.com" alt="Gmail">
+  
+  <a href="https://github.com/anuraghazra/github-redme-stats">
+    <img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=lucasgorzizas&hide=prs,issues&show_icons=true&theme=graywhite"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&theme=vision-friendly-dark">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=graywhite&langs_count=6"/>
+ 
+ 
+ <a href="lucas.gorziza@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-gorziza-da-silva-432662232/" alt="Linkedin">
@@ -25,13 +34,7 @@
 <a href="https://www.instagram.com/lucas_gorziza/" alt="Instagram">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-  
-  <a href="https://github.com/anuraghazra/github-redme-stats">
-    <img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=lucasgorzizas&hide=prs,issues&show_icons=true&theme=graywhite"/>
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&theme=vision-friendly-dark">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=graywhite&langs_count=6"/>
+ 
  
   </a>
  <div style="display: inline_block"><br>
