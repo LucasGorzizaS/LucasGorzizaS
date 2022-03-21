@@ -46,7 +46,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=graywhite&langs_count=6"/>
     <img align="center" alt="Tubarão" src="https://cdn.discordapp.com/attachments/704491620489232395/955530445766926457/gif_tubarao.gif">
     <img align="right" alt="Tubarão" src="https://cdn.discordapp.com/attachments/704491620489232395/955530445766926457/gif_tubarao.gif">
-    <img align="left" alt="Tubarão" src="https://cdn.discordapp.com/attachments/704491620489232395/955530445766926457/gif_tubarao.gif">
+
     
     
   </a>
