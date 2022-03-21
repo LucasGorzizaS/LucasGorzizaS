@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<h1 align="center">📲️ Contacts</h1>
+<h1 align="center">📲️ Contatos</h1>
 
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="lucas.gorziza@gmail.com" alt="Gmail">
