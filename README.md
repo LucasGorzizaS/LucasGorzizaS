@@ -23,10 +23,10 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=graywhite&langs_count=6"/>
  
  
-<a href="lucas.gorziza@gmail.com" alt="Gmail   ">
+<a href="lucas.gorziza@gmail.com" alt="Gmail...">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/lucas-gorziza-da-silva-432662232/" alt="Linkedin ">
+<a href="https://www.linkedin.com/in/lucas-gorziza-da-silva-432662232/" alt="Linkedin. ">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/lucas_gorziza/" alt="Instagram">
