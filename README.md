@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode"/>
 
-<br>
-
 <h1> Lucas Gorziza da Silva </h1>
 
 <p>💻 Com programação é possível mudar o nosso modo de vida e a forma como pensamos sobre tudo, acredito que com persistência e determinação é possível alcançar grandes resultados.<p>
