@@ -22,9 +22,9 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&theme=vision-friendly-dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
   
-  
+ 
 <a href="lucas.gorziza@gmail.com" alt="Gmail">
-<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img align="centerttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 <br/>
