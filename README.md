@@ -26,13 +26,18 @@
 <a href="lucas.gorziza@gmail.com" alt="Gmail">
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</p>
+<br/>
 <a href="https://www.linkedin.com/in/lucas-gorziza-da-silva-432662232/" alt="Linkedin">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
+<br/>
 <a href="https://www.instagram.com/lucas_gorziza/" alt="Instagram">
 <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
+</p>
+<br/>
 
 </a>
 <div style="display: inline_block"><br>
