@@ -38,7 +38,8 @@
 &nbsp; &nbsp;
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&theme=vision-friendly-dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
-
+</p>
+<br/>
 
 </a>
 <div style="display: inline_block"><br>
