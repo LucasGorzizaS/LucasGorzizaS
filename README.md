@@ -38,12 +38,3 @@
 &nbsp; &nbsp;
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&theme=vision-friendly-dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
-</p>
-<br/>
-
-</a>
-<div style="display: inline_block"><br>
-<div align="center">
-<h1> </h1>
-<a href="https://alisonsantosofc.github.io/alison-web-develop">Link para o meu portifólio</a>
-</div>
