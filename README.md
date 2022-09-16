@@ -4,7 +4,7 @@
 
 <p>💻 - Com programação é possível mudar o nosso modo de vida e a forma como pensamos sobre tudo, acredito que com persistência e determinação é possível alcançar grandes resultados.<p>
 
-<p>🌱 - Atualmente aprendendo linguagem C e coleta de requisitos.</p>
+<p>🌱 - Atualmente aprendendo diversas ramificações da tecnologia.</p>
 
 <p>📚 - Estudando Análise e Desenvolvimento de Sistemas (ADS) na Uniritter.</p>
 
@@ -27,6 +27,7 @@
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+margin-bottom: 4px;
 <br/>
 
 <a href="https://www.linkedin.com/in/lucas-gorziza-da-silva-432662232/" alt="Linkedin">
