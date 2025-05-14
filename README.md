@@ -2,13 +2,11 @@
 
 <h1> Lucas Gorziza da Silva </h1>
 
-<p>💻 - Com programação é possível mudar o nosso modo de vida e a forma como pensamos sobre tudo, acredito que com persistência e determinação é possível alcançar grandes resultados.<p>
+<p>💻 - Atualmente aprendendo diversas ramificações da tecnologia.</p>
 
-<p>🌱 - Atualmente aprendendo diversas ramificações da tecnologia.</p>
+<p>📚 - Formado em Análise e Desenvolvimento de Sistemas (ADS) na Uniritter.</p>
 
-<p>📚 - Estudando Análise e Desenvolvimento de Sistemas (ADS) na Uniritter.</p>
-
-<p>💬 - À procura de um estágio na área. </p>
+<p>💬 - À procura de um trabalho full time na área. </p>
 
 </p>
 <br/>
